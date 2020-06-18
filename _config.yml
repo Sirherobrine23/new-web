@@ -22,7 +22,7 @@ authors:
     sirherobrine23:
       name:           sirherobrine23
       site:           https://www.sirherobrine23.org
-      avatar:         /assets/images/sh23.gif
+      avatar:         assets/images/sh23.gif
       bio:            "Oi, como estou sempre tendo algo na cabeça sempre acabo colocando no github ou em meu site, tenho meu site antigo na qual eu fiz quase do zero, e na qual ja passou por varios endereço e servidores, até mesmo perdar quase total por falta de backup. atualmente faço alguns script shell linux e Windows. além do conhecimento em lingua c++ e java"
       email:          srherobrine20@gmail.com
       twitter:        https://twitter.com/sirherobrine23
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: sirherobrine23
-      avatar: /assets/images/sh23.gif
+      avatar: assets/images/sh23.gif
       
   # all pages
   - scope:
