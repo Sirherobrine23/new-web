@@ -33,10 +33,10 @@ defaults:
   # all posts
   - scope:
       path: "_posts"
-    values:
-      layout: post
-      author: sirherobrine23
-      avatar: /assets/images/sh23.jpg
+    #values:
+     # layout: post
+     # author: sirherobrine23
+     # avatar: /assets/images/sh23.jpg
       
   # all pages
   - scope:
@@ -49,7 +49,7 @@ markdown: kramdown
 highlighter: rouge
  
 # Paginate
-paginate: 10
+paginate: 15
  
  
  
