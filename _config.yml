@@ -35,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-     # author: sirherobrine23
-     # avatar: /assets/images/sh23.jpg
+      author: sirherobrine23
+      avatar: /assets/images/sh23.jpg
       
   # all pages
   - scope:
