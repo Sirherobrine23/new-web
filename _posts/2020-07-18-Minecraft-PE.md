@@ -10,7 +10,7 @@ categories: [ Minecraft-PE,MCPE,Download ]
 
 Boa parte dos arquivos são do [Restart G4mes](https://www.youtube.com/channel/UCRn3MAs2f7hanjivuqEXUtw), e na qual deve ter todo os creditos do arquivos, Passem no Canal dele e deixa um Like/Gostei.
 
-Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui](#ultima)
+Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui](#1.16.0.60)
 
 <br><br>
 
@@ -26,7 +26,7 @@ Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui]
 
 [1.16.0.63-(BETA)](https://files.sirherobrine23.org/Minecraft/Mcpe/1.16.0.63(BETA).apk)
 
-[1.16.0.60-(Oficial 2)](https://files.sirherobrine23.org/Minecraft/Mcpe/1.14.60(of).apk)
+[1.16.0.60](https://files.sirherobrine23.org/Minecraft/Mcpe/1.14.60(of).apk)
 
  [1.16.0.59-(BETA)](https://files.sirherobrine23.org/Minecraft/Mcpe/1.16.0.59(beta).apk)
   
