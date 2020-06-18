@@ -3,7 +3,7 @@ layout: post
 title:  "MacOS(X) em um Computador não Apple"
 author: sirherobrine23
 categories: [ Apple, MacOs, Mac ]
-#image: assets/images/12.jpg
+image: assets/images/macbookpro-13.jpg
 ---
 
 ### MacOS, O sistema fora dos Computadores Apples. Isso é Possivel.
