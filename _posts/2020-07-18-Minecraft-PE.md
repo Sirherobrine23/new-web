@@ -26,7 +26,7 @@ Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui]
 
 [1.16.0.63-(BETA)](https://files.sirherobrine23.org/Minecraft/Mcpe/1.16.0.63(BETA).apk)
 
-[1.16.0.60](https://files.sirherobrine23.org/Minecraft/Mcpe/1.14.60(of).apk)
+#### [1.16.0.60](https://files.sirherobrine23.org/Minecraft/Mcpe/1.14.60(of).apk)
 
  [1.16.0.59-(BETA)](https://files.sirherobrine23.org/Minecraft/Mcpe/1.16.0.59(beta).apk)
   
