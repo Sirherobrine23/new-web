@@ -88,8 +88,6 @@ Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui]
   
 [0.16.0](https://files.sirherobrine23.org/Minecraft/Mcpe/0.xx.x/0.16.0.apk)
 
----
-
- ### Para Windows 10
+ # Para Windows 10
 
  Futuro.
