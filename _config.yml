@@ -3,7 +3,7 @@ name: 'Sirherobrine23'
 description: 'Site em que quase tudo acontece. '
 logo: ' /assets/images/logo.jpg'
 favicon: ' /assets/images/favicon.ico'
-baseurl: '/'
+baseurl: ''
 disqus: 'Site Alpha'
 email: 'srherobrine20@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
@@ -23,7 +23,7 @@ authors:
       name:           sirherobrine23
       site:           https://www.sirherobrine23.org
       avatar:         /assets/images/sh23.jpg
-      bio:            "Oi como estou sempre tendo algo na cabeça sempre acabo colocando no github ou em meu site"
+      bio:            "Oi, como estou sempre tendo algo na cabeça sempre acabo colocando no github ou em meu site, tenho meu site antigo na qual eu fiz quase do zero, e na qual ja passou por varios endereço e servidores, até mesmo perdar quase total por falta de backup. atualmente faço alguns script shell linux e Windows. além do conhecimento em lingua c++ e java"
       email:          srherobrine20@gmail.com
       twitter:        https://twitter.com/sirherobrine23
  
@@ -33,8 +33,8 @@ defaults:
   # all posts
   - scope:
       path: "_posts"
-    #values:
-     # layout: post
+    values:
+      layout: post
      # author: sirherobrine23
      # avatar: /assets/images/sh23.jpg
       
