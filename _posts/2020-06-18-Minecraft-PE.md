@@ -6,11 +6,13 @@ categories: [ Minecraft-PE,MCPE,Download ]
 #image: assets/images/12.jpg
 ---
 
-### Para aqueles que estão a procura de poder baixar o mcpe(Minecraft PE) no android, aqui esta um pequeno conglomerado deles, "pagina atualizada continuamente"
+ Para aqueles que estão a procura de poder baixar o mcpe(Minecraft PE) no android, aqui esta um pequeno conglomerado deles, "pagina atualizada continuamente"
 
 Boa parte dos arquivos são do [Restart G4mes](https://www.youtube.com/channel/UCRn3MAs2f7hanjivuqEXUtw), e na qual deve ter todo os creditos do arquivos, Passem no Canal dele e deixa um Like/Gostei.
 
 Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui](#116060)
+
+# Servidores Off-Line
 
 <br><br>
 
