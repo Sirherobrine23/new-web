@@ -43,7 +43,7 @@ defaults:
   - scope:
       path: "_pages"
     values:
-      sitemap: false
+      #sitemap: false
       layout: page
       
 # Syntax
