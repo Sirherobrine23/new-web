@@ -12,7 +12,7 @@ Boa parte dos arquivos são do [Restart G4mes](https://www.youtube.com/channel/U
 
 Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui](#116060)
 
-# Servidores Off-Line
+# Servidores de arquivos em manuteção pode aver erros ou uma demorar para baixa (Algumas versões estão perdidas)
 
 <br><br>
 
