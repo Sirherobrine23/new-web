@@ -5,7 +5,7 @@ author: sirherobrine23
 categories: [ Sh23, Sirherobrine23, Site ]
 ---
 
-### Por que estou mudando?
+Por que estou mudando o esrilo do meu site?
 
 Por eu poder simplificar uma estrurar de um site, na qual não precisso fazer tudo de novo, de novo e de novo. além de simplificar tudo e deixando um pouco mais padronizado, mas vou querer ver sei isso é para sempre?
 
