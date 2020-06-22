@@ -121,9 +121,9 @@ layout: default
                 {% endif %}
             
             <!-- Comments -->
-            {% if page.comments != true %}
-                {% include comments.html %}
-            {% endif %}
+            {% if page.comments == true %}
+				{% include comments.html %}
+			{% endif %}
             
 		</div>
         
