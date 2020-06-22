@@ -16,9 +16,19 @@ Um ponto que ele pode não peca é ter opção de `custom domain ou dominios cus
 Agora a grande pergunda. P: Quantos sites eu posso ter?
 
 R: Depende de qual plano do github voçê está. por que depende de quantos repositoris o plano oferece (e também ninguem vai criar mais de 1000 repositoris no github free só para o github pages). e se for com os dominios do github ficaria assim:
+exeplos:
 ```
     primeiro -> seunome.github.io/
     Segundo -> seunome.github.io/2
     Terceiro -> seunome.github.io/3
+    ...
+```
+P: E os domios personalizados?
+R: Sim, é possivel usar. Bastar ir nas configurações do  repositorio e ir para o 'Github Pages' e `custom domains` ![Image](/assets/images/github/settings.png). lebrando  que os domios podem ser apontados por CNAME: ´Seunome.github.io -CNAME- www.seunome.org´ 
+exemplos
+```
+    primeiro ->  www1.seunome.org/
+    Segundo  ->  www2.seunome.org/
+    Terceiro ->  www3.seunome.org/
     ...
 ```
