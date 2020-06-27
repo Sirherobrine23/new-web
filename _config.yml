@@ -10,7 +10,7 @@ email: 'srherobrine20@gmail.com'
  
 include: ["_pages"]
 permalink: /:title/
- 
+
 # Plugins
 plugins: 
   - jekyll-feed
