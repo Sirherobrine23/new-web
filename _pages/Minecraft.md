@@ -1,18 +1,25 @@
 ---
-layout: post
-title:  "Minecraft PE Downloads"
-author: sirherobrine23
-categories: [ Minecraft-PE,MCPE,Download ]
+title:  "Minecraft Downloads"
+permalink: "/minecraft.html"
 #image: assets/images/12.jpg
 ---
 
- Para aqueles que estão a procura de poder baixar o mcpe(Minecraft PE) no android, aqui esta um pequeno conglomerado deles, "pagina atualizada continuamente"
+# Minecraft Java
+
+Essas sessão é para download do Minecraft Java edition
+
+[Shiginima](https://files.sirherobrine23.org/Minecraft/ShiginimaSE_v4400.zip)
+
+
+# -------------------------------------------------------------
+
+Para aqueles que estão a procura de poder baixar o mcpe(Minecraft PE) no android, aqui esta um pequeno conglomerado deles, "pagina atualizada continuamente"
 
 Boa parte dos arquivos são do [Restart G4mes](https://www.youtube.com/channel/UCRn3MAs2f7hanjivuqEXUtw), e na qual deve ter todo os creditos do arquivos, Passem no Canal dele e deixa um Like/Gostei.
 
 Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui](#116060)
 
-# Servidores de arquivos em manuteção pode aver erros ou uma demorar para baixa (Algumas versões estão perdidas)
+# Servidores de arquivos em Backup pode aver erros ou uma demorar para baixa 
 
 <br><br>
 
