@@ -6,6 +6,17 @@ categories: [ Apple, MacOs, Mac ]
 #image: assets/images/macbookpro-13.jpg
 ---
 
+MacOS
+
+# 27/06/2020
+
+A Apple anunciou a trasição dos Processadores Intel para Processadores da propria empressa (ARM), não temos noticias sobre quetões sobre o supote dos processadores Intel daqui em diante até ser anunciado oque tera efeito nos processadores Intel e qual será seu efeito daqui em diante antes do `MacOS Catalina` ainda dara para fazer nosso querido Hackintosh. 
+
+## Continua o post
+
+
+# 18/06/2020
+
 Quem ja pensou que isso é impossive. já que o MacOS ele foi feito para processadores Intel, e que hoje é possivel instalar em um sistema Apple em um computador não Apple. Espere um pouco antes de começa a falar que isso é vai da trabalho eu falo, "Isso depende", já que boa parte do conteudo pode ser instalado com facilidade e depedendo também pode ser dificil.
 
 Eu já fiz isso e fiquei mais ou menos 3 a 5 Meses no sistema, mais foi porque meu Windows Comrompeu e não tinha um CD/DVD ou pendrive da instalação do Windows 10.
@@ -14,13 +25,15 @@ Eu já fiz isso e fiquei mais ou menos 3 a 5 Meses no sistema, mais foi porque m
 No entanto qual foi o nome que a nossa GRANDE comunidade deu para esse sistema? 
 
 Nada mais do que "Hackintosh", se você já ouviu esse nome é por que pode ter aparecido na sua Time Line do Twitter ou até mesmo na Paginas Do YouTube. No entanto Hoje temos "Distros" que facilita muito a instalação do MacOS no Nosso computadores. mais recomendo permanecer no Windows ou Linux caso voçê não conheça nada de comandos ou até mesmo só usar mesmo o computador para acessar a Internet para ver vídeos ou ler, mas caso queira fazer isso acesse esse link [*Como MONTAR um HACKINTOSH PERFEITO! (MacOS Mojave) - Gabriel de Pinho
- \YouTube/*](https://www.youtube.com/watch?v=0CVCf7e_fds). Para quem quiser baixa alguns arquivos aqui do site terá alguns arquivos no meu Site Antigo [Distros Niresh e Olarila](https://old.sirherobrine23.org/mac/Download.html)
+ \YouTube/*](https://www.youtube.com/watch?v=0CVCf7e_fds). Para quem quiser baixa alguns arquivos aqui do site [Downloads MacOS](/macos-distros.html).
 
  Mas uma Pergunta ainda ficou no ar: 
     
     - P: É ilegal fazer um Hackintosh?
     - R: Não, mais o Computador não pode ser vendido com o Sistema já Pré-Instalado no computador.
 
-    - P: AMD ou Intel?
-    - R: Preferido o Intel, pois maioria dos computadores Apple são Intel, mas também a distros AMD.
+    - P: Processador AMD ou Intel?
+    - R: Preferido o Intel, pois maioria dos computadores Apple são Intel, mas também a distros que dão suporte a AMD.
 
+    - P: Placa de video
+    - R: Nvidia nem todas funciona, recomendado as placas de video da AMD por maio compatibilidade do MacOS com as placas de video AMD

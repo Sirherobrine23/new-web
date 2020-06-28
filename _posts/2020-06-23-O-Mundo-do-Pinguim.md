@@ -13,4 +13,4 @@ sim isso pode ser uma meia verdade, pois há usuarios que já tem um conheciment
 
 Mas também não samos reestrito a criar um sistema linux podemos usar o Nucleo linux ou se basear em um sistema como [Ubuntu](ubuntu.com/) que se baseia no [Debian/GNU](https://www.debian.org/) até mesmo usar a propria base do ubuntu.
 
-Pessoas falam que não temos o pacote Office, Isso é verdade mais podemos usar o Wine para emular ou Usar o proprio LibreOffice que é Livre e tem as mesmas ferramentas que Office. não temos jogos, isso e meia verdade hoje conseguimos rodar maior parte dos jogos via Wine que podemos usar a GPU e Grande partes das CPUs.
+Algumas pessoas falam que não temos o pacote Office e isso é verdade mais podemos usar o Wine para emular o Office para nosso uso pessoal, ou Usar o proprio LibreOffice que é Livre e tem as mesmas ferramentas que Office. isso também acaba indo no termo de jogos, mas graças a Steam acaba fazendo uma grande compatibilidade de jogos entre plataformas `Windows to Linux`, mas essa plataforma ainda está em testes.
