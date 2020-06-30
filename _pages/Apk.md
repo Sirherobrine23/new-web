@@ -8,25 +8,25 @@ permalink: "/android/apk.html"
 
    [Adv](https://files.sirherobrine23.org/Android-GSi/Apps.com/adv.apk)
 
-# ------------
+-----------------------------------------
 
 # Terminus SSH/Sftp
 
    [Terminus](https://files.sirherobrine23.org/Android-GSi/Apps.com/Termius.apk)
 
-# ------------
+-----------------------------------------
 
 # Deezer
 
    [Deezer](https://files.sirherobrine23.org/Android-GSi/Apps.com/deezer.apk)
 
-# ------------
+-----------------------------------------
 
 # Spotify
 
    [Spotify](https://files.sirherobrine23.org/Android-GSi/Apps.com/Spotify%20Premium.apk)
 
-# ------------
+-----------------------------------------
 
 # Youtube Music
 

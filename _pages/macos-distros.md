@@ -10,7 +10,7 @@ Processadores AMD: Por enquanto nem todos os processadores são suportados mas o
    
    - ...
 
-# --------------------------------
+-----------------------------------------
 
 # Olarila
 
@@ -25,6 +25,8 @@ Processadores AMD: Por enquanto nem todos os processadores são suportados mas o
 [Olarila Mojave AMD](https://files.sirherobrine23.org/Hackintosh/Olarila-Mojave-AMD.raw)
 
 [? High Sierra AMD](https://files.sirherobrine23.org/Hackintosh/HighSierraAMD_V2-Legacy.dmg)
+
+----
 
 # Niresh
 
