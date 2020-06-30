@@ -38,9 +38,8 @@ Para aqueles que estão a procura de poder baixar o mcpe(Minecraft PE) no androi
 
 Boa parte dos arquivos são do [Restart G4mes](https://www.youtube.com/channel/UCRn3MAs2f7hanjivuqEXUtw), e na qual deve ter todo os creditos do arquivos, Passem no Canal dele e deixa um Like/Gostei.
 
-Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui](#116060)
+Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE), procure pela ultimas versões na `Oficial`
 
-# Servidores de arquivos em Backup pode aver erros ou uma demorar para baixa 
 
 
 <br>
@@ -53,6 +52,7 @@ Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui]
 --/--/--   |  |  |  [1.16.0.66-1][1160661]  |  |                         |  |   
 --/--/--   |  |  |  [1.16.0.64][116064]     |  |                         |  |   
 --/--/--   |  |  |  [1.16.0.63][116063]     |  |                         |  |   
+--/--/--   |  |  |  [1.16.0.61][116061]     |  |                         |  |
 --/--/--   |  |  |  [1.16.0.60][116060]     |  |                         |  |   
 --/--/--   |  |  |  [1.16.0.59][116059]     |  |                         |  |   
 --/--/--   |  |  |  [1.16.0.57][116057]     |  |                         |  |   
@@ -63,7 +63,7 @@ Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui]
 --/--/--   |  |  |                          |  |  [1.14.2.51][114251]    |  |   
 10/12/2019 |  |  |                          |  |  [1.14.0.1][11401]      |  |   
 29/09/2019 |  |  |                          |  |  [1.13.0.15][113015]    |  |   
-29/09/2019 |  |  |                          |  |  [1.13.0.18][113018]     |  |   
+29/09/2019 |  |  |                          |  |  [1.13.0.18][113018]    |  |   
 29/09/2019 |  |  |                          |  |  [1.13.0.13][113013]    |  |   
 29/09/2019 |  |  |                          |  |  [1.13.0.9][11309]      |  |   
 29/09/2019 |  |  |                          |  |  [1.13.0.6][11306]      |  |   
@@ -76,28 +76,30 @@ Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui]
 23/05/2019 |  |  |                          |  |  [1.11.4.2][11142]      |  |   
 20/03/2019 |  |  |                          |  |  [1.2.14.2][12142]      |  |   
 03/03/2019 |  |  |                          |  |  [1.2.13.6][12136]      |  |   
+21/09/2016 |  |  |                          |  |                         |  | [0.16.0][0160]           
 20/08/2016 |  |  |                          |  |                         |  | [0.15.90.1][015901]       
 28/07/2016 |  |  |                          |  |                         |  | [0.15.6][0156]            
 10/08/2016 |  |  |                          |  |                         |  | [0.15.4][0154]            
 19/07/2016 |  |  |                          |  |                         |  | [0.15.3.2][01532]         
 26/06/2016 |  |  |                          |  |                         |  | [0.15.1.2][01512]         
-21/09/2016 |  |  |                          |  |                         |  | [0.16.0][0160]         |   
 10/06/2016 |  |  |                          |  |                         |  | [0.15.0.50][015050] 
 10/06/2016 |  |  |                          |  |                         |  | [0.15.0][0150]
 
-[116068]: https://files.sirherobrine23.org/Minecraft/Mcpe/18-07-2020/1.16.0.68.apk
+[116068]: https://files.sirherobrine23.org/Minecraft/Mcpe/Restart/1.16.0.68.apk
 
-[116067]: https://files.sirherobrine23.org/Minecraft/Mcpe/18-07-2020/1.16.0.67.apk
+[116067]: https://files.sirherobrine23.org/Minecraft/Mcpe/Restart/1.16.0.67.apk
 
-[1160661]: https://files.sirherobrine23.org/Minecraft/Mcpe/18-07-2020/1.16.0.66-1.apk
+[1160661]: https://files.sirherobrine23.org/Minecraft/Mcpe/Restart/1.16.0.66.apk
 
-[1160662]: https://files.sirherobrine23.org/Minecraft/Mcpe/18-07-2020/1.16.0.66-2.apk
+[1160662]: https://files.sirherobrine23.org/Minecraft/Mcpe/Restart/1.16.0.66.apk
 
-[116064]: https://files.sirherobrine23.org/Minecraft/Mcpe/18-07-2020/1.16.0.64.apk
+[116064]: /404.html
 
-[116063]: https://files.sirherobrine23.org/Minecraft/Mcpe/1.16.0.63(BETA).apk
+[116063]: https://files.sirherobrine23.org/Minecraft/Mcpe/Restart/1.16.0.63.apk
 
-[116060]: https://files.sirherobrine23.org/Minecraft/Mcpe/1.14.60(of).apk
+[116061]: https://files.sirherobrine23.org/Minecraft/Mcpe/By%20restartgame/1.16.0.61(beta).apk
+
+[116060]: https://files.sirherobrine23.org/Minecraft/Mcpe/By%20restartgame/1.16.0.60(beta).apk
 
 [116059]: https://files.sirherobrine23.org/Minecraft/Mcpe/1.16.0.59(beta).apk
   
@@ -164,4 +166,11 @@ Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE) [Clica Aqui]
 
 # Para Windows 10
 
- Futuro.
+Se não funcionar é por que nao testei antes de publica
+
+  Data     |  |  | BETA                     |  | Oficial                 
+:--------- |::|::|:------------------------:|::|:-----------------------: 
+--/--/--   |  |  |                          |  | [1.14.30.2][W114302]
+ 
+
+ [W114302]: https://files.sirherobrine23.org/Minecraft/Mcpe/Minecraft%20for%20Windows%2010/Minecraft-1.14.30.2.Appx
