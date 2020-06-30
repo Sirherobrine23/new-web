@@ -26,7 +26,7 @@ permalink: "/android/xt1965/index.html"
 
 [AOSP Android (10) By phhusson](https://github.com/phhusson/treble_experimentations/releases/tag/v220)
 
-[Pixel Android R (11) By ErfanGSI](https://mirrors.lolinet.com/firmware/gsi/Pixel/Pixel-AB-11-20200618-ErfanGSI.img-0158.7z)
+[Pixel Android R (11) By ErfanGSI](https://files.sirherobrine23.org/Android-GSi/Rom.com/30-06-2020/Pixel-AB-11-20200618-ErfanGSI.img-0158.7z)
 
 ------------------
 
