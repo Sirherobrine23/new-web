@@ -14,7 +14,19 @@ permalink: "/android/xt1965/index.html"
 
 # Custom Rom /|\ GSi
 
-### Futuro
+### Custom Rom
+
+[Pixel Experience Normal](https://files.sirherobrine23.org/Android-GSi/XT1965-lake/Custom%20rom/PixelExperience_lake-10.0-20200622-1624-UNOFFICIAL.zip), [Pixel Expereoence Plus](https://files.sirherobrine23.org/Android-GSi/XT1965-lake/Custom%20rom/PixelExperience_Plus_lake-10.0-20200622-2204-UNOFFICIAL.zip)
+
+[Havoc OS](https://files.sirherobrine23.org/Android-GSi/XT1965-lake/Custom%20rom/Havoc-OS-v3.6-20200624-lake-Unofficial.zip)
+
+----
+
+### GSi (ARM64)
+
+[AOSP Android (10) By phhusson](https://github.com/phhusson/treble_experimentations/releases/tag/v220)
+
+[Pixel Android R (11) By ErfanGSI](https://mirrors.lolinet.com/firmware/gsi/Pixel/Pixel-AB-11-20200618-ErfanGSI.img-0158.7z)
 
 ------------------
 
