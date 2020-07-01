@@ -17,7 +17,3 @@ permalink: "/contato.html"
 <input class="btn btn-success" type="submit" value="Send">
 </form>
 
-
-# Mailchimp
-
-<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/bd85022adda260dc1b1856f11/f5fbf51841126f06ab3b28406.js");</script>
