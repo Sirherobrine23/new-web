@@ -1,6 +1,6 @@
 ---
 title: "Jogos recomendados"
-permalink: "/jogos-recomendados.html"
+permalink: "/jogos/recomendados.html"
 ---
 
 # Jogos que recomendo para Jogar (E na qual já joguei)
