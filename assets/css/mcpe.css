@@ -6,6 +6,12 @@
 *{
     font-family: minecraft, minecraft2;
 }
+nav{
+    background-image: url(https://old.sirherobrine23.org/mcpe/image/stone.jpg);
+    background-size: 3%;
+    font-family: minecraft, minecraft2;
+
+}
 body{
     background-attachment: fixed;
 }
