@@ -1,7 +1,7 @@
 ---
+layout: Minecraft2
 title:  "Minecraft Downloads"
 permalink: "/minecraft.html"
-layout: minecraft
 #image: assets/images/12.jpg
 ---
 
