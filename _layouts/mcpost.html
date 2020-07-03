@@ -99,11 +99,10 @@ comments: true
 				</div>				
                 {% endif %}
             
-            <!-- Comments -->
-            {% if page.comments == true %}
-				      {% include comments.html %}
-			      {% endif %}
-            
+         <!-- Comments -->
+         {% if page.comments != false %}
+           {% include comments.html %}
+         {% endif %}
 		</div>
         
         
