@@ -48,6 +48,9 @@ Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE), procure pel
 
   Data     |  |  | BETA                     |  | Oficial                 |  | Alpha
 :--------- |::|::|:------------------------:|::|:-----------------------:|::|:--------: | 
+29/06/2020 |  |  |                          |  | [1.16.1.02][116102]     |  |   
+25/06/2020 |  |  |                          |  | [1.16.0.0][11600]       |  |   
+25/06/2020 |  |  |  [1.16.20.50][1162050]   |  |                         |  | 
 --/--/--   |  |  |  [1.16.0.68][116068]     |  |                         |  |   
 --/--/--   |  |  |  [1.16.0.67][116067]     |  |                         |  |   
 --/--/--   |  |  |  [1.16.0.66-1][1160661]  |  |                         |  |   
@@ -85,6 +88,12 @@ Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE), procure pel
 26/06/2016 |  |  |                          |  |                         |  | [0.15.1.2][01512]         
 10/06/2016 |  |  |                          |  |                         |  | [0.15.0.50][015050] 
 10/06/2016 |  |  |                          |  |                         |  | [0.15.0][0150]
+
+[116102]: https://files.sirherobrine23.org/Minecraft/Mcpe/nether-updater/1.16(23-06-2020)-oficial.apk
+
+[11600]: https://files.sirherobrine23.org/Minecraft/Mcpe/nether-updater/1.16(23-06-2020)-oficial.apk
+
+[1162050]: https://files.sirherobrine23.org/Minecraft/Mcpe/nether-updater/1.16.20.50(25-06-2020)-beta.apk
 
 [116068]: https://files.sirherobrine23.org/Minecraft/Mcpe/Restart/1.16.0.68.apk
 
