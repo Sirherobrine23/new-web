@@ -7,13 +7,15 @@
     font-family: minecraft, minecraft2;
 }
 nav{
-    background-image: url(https://old.sirherobrine23.org/mcpe/image/stone.jpg);
-    background-size: 3%;
+	#background-image: url(https://old.sirherobrine23.org/mcpe/image/glass.png);
+    background-size: 1.6%;
     font-family: minecraft, minecraft2;
 
 }
 body{
-    background-attachment: fixed;
+	background-image: url(https://old.sirherobrine23.org/mcpe/image/stone.jpg);
+	background-size: 2%;
+    background-attachment: relative;
 }
 @font-face{
     font-family: minecraft;
