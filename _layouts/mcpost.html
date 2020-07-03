@@ -74,6 +74,15 @@ layout: mc
 			</div>
             {% endif %}
             
+			<p class="text-uppercase font-weight-bold">
+				<span class="catlist">
+				<a>Cartegorias: </a>
+				{% for category in page.categories %}
+				  <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
+				{% endfor %}
+				</span>
+			</p>
+			
              <!-- Author Box -->
                 {% if page.author %}				
 				<div class="row mt-5">
