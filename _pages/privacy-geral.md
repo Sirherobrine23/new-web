@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-permalink: "/privacy-geral.html"
+permalink: "/privacy-policy.html"
 ---
 
 [Privacy- English](/privacy-policy.html)
