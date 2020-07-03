@@ -13,8 +13,7 @@ nav{
 
 }
 body{
-	background-image: url(https://old.sirherobrine23.org/mcpe/image/stone.jpg);
-	background-size: 2%;
+	#background-image: url(https://old.sirherobrine23.org/mcpe/image/stone.jpg);
     background-attachment: relative;
 }
 @font-face{
