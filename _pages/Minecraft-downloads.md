@@ -1,5 +1,5 @@
 ---
-layout: mcpost
+layout: minecraft_pages
 title:  "Minecraft Downloads"
 permalink: "/minecraft.html"
 #image: assets/images/12.jpg
