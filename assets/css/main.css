@@ -8460,3 +8460,9 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+video{
+  border-radius: 20px;
+  left: 32px;
+  right: 32px;
+}
