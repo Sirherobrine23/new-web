@@ -53,8 +53,8 @@
             videoTarget.insertAdjacentHTML('afterend', '<div id="' + jlPlayerID + '"></div>');
             document.getElementById(jlPlayerID).remove();
             jlPlayerElem = get(document, jlPlayerID);
-            videoTarget.removeAttribute('id');
-            videoTarget.removeAttribute('class');
+            //videoTarget.removeAttribute('id');
+            //videoTarget.removeAttribute('class');
             jlPlayerElem.appendChild(videoTarget);
             jlPlayerElem.setAttribute('class', 'jlplayer-video jlplayer-cursor-show jlplayer-fullscreen-off');
             jlPlayerElem.innerHTML += jlPlayerContent;
