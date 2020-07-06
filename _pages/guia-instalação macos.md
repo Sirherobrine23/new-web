@@ -22,10 +22,10 @@ Configurações Defaults da BIOS/EUFI
 vamos criar o pendrive com o etcher e usar uma versão do Olarila High Sierra, para quem não baixou os arquivos do MacOS pode baixar [Aqui](https://sirherobrine23.org/macos-distros.html), Já o etcher [Aqui](https://www.balena.io/etcher/), para quem prefirir o Rufus [Aqui](https://rufus.ie/).
 
 Windows/MacOS/Linux:
-<form class="video-container" action="" method="GET"><video controls autoplay width="40%"><source src="/assets/images/Mac-Guide/etcher.mp4"></video></form>
+<form class="video-container" action="" method="GET"><video controls autoplay ><source src="/assets/images/Mac-Guide/etcher.mp4"></video></form>
 
 Windows:
-<form class="video-container" action="" method="GET"><video controls autoplay width="40%"><source src="/assets/images/Mac-Guide/rufus.mp4"></video></form>
+<form class="video-container" action="" method="GET"><video controls autoplay ><source src="/assets/images/Mac-Guide/rufus.mp4"></video></form>
 
 ----
 
@@ -39,4 +39,4 @@ Devemos Apagar o HDD/SSD: Utilitario -> Utilitario de Disco.
 
 selecione o HDD/SSD e apague em APFS, Mapa de partição GUID (Não Esqueça, isso apagara todo o HDD/SSD)
 
-<form class="video-container" action="" method="GET"><video controls autoplay width="40%"><source src="/assets/images/Mac-Guide/acelera_HD 720p.mp4"></video></form>
+<form class="video-container" action="" method="GET"><video controls autoplay ><source src="/assets/images/Mac-Guide/acelera_HD 720p.mp4"></video></form>
