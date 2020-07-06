@@ -11,6 +11,6 @@ Ter as peças do Hadware Compativeis como o princial o processador, chipset e pl
 
 [Clover Bootloader](https://github.com/CloverHackyColor/CloverBootloader/releases)
 
-<video>
+<video controls height="10%">
     <source src="/assets/images/Mac-Guide/acelera_HD 720p.mp4">
 </video>
