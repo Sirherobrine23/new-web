@@ -19,7 +19,7 @@ Configurações Defaults da BIOS/EUFI
 
 # Pendrive Bootavel
 
-vamos criar o pendrive com o etcher e usar uma versão do Olarila High Sierra, para quem não baixou pode baixar [Aqui](https://sirherobrine23.org/macos-distros.html).
+vamos criar o pendrive com o etcher e usar uma versão do Olarila High Sierra, para quem não baixou os arquivos do MacOS pode baixar [Aqui](https://sirherobrine23.org/macos-distros.html), Já o etcher [Aqui](https://www.balena.io/etcher/), para quem prefirir o Rufus [Aqui](https://rufus.ie/).
 
 Windows/MacOS/Linux:
 <video controls autoplay width="40%"><source src="/assets/images/Mac-Guide/etcher.mp4"></video>
@@ -36,5 +36,7 @@ para começamos devemos ter já em maos o pendrive com o sistema já pronto, e c
 Após o Boot do Sistema devemos passar a tela de seleção do idioma e depois dos contratos do MacOS, Teremos uma Tela de seleção do Utilitario.
 
 Devemos Apagar o HDD/SSD: Utilitario -> Utilitario de Disco.
+
+selecione o HDD/SSD e apague em APFS, Mapa de partição GUID (Não Esqueça, isso apagara todo o HDD/SSD)
 
 <video controls autoplay width="40%"><source src="/assets/images/Mac-Guide/acelera_HD 720p.mp4"></video>
