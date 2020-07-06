@@ -8460,9 +8460,3 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
-
-video{
-  width: 60%
-}
-    
-@import url(https://github.com/jetersonlordano/jlplayer/raw/master/jlplayer.css);
