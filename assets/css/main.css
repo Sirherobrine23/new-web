@@ -8462,6 +8462,6 @@ html {
     align-self: stretch !important; } }
 
 video{
-  width: 60%;
-  height: 60%;
+  width: 60% !important;
+  height: 60% !important;
 }
