@@ -7,7 +7,7 @@
     src: url(https://old.sirherobrine23.org/mcpe/Minecraft.ttf);
 }
 *{
-    font-family: minecraft, minecraft2;
+    font-family: minecraft, minecraft2 !important;
 }
 
 /*!
