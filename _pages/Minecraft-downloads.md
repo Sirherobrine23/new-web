@@ -41,6 +41,8 @@ Boa parte dos arquivos são do [Restart G4mes](https://www.youtube.com/channel/U
 
 Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE), procure pela ultimas versões na `Oficial`
 
+Caso não goste a textura use [esse arquivo aqui](https://files.sirherobrine23.org/Minecraft/Mcpe-textura.zip), ela é suportada a partir da versão 1.13.0
+
 
 
 <br>
