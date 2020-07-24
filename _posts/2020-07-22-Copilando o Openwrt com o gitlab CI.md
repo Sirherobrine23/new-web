@@ -5,8 +5,6 @@ author: sirherobrine23
 categories: [ Gitlab, Ci/CD, Copilação ]
 ---
 
-# RASCUNHO
-
 Para quem tem problema na copilação do OpenWRT sabe que isso é uma dor de cabeça grande, procurar error é pior, até mesmo pode ser error humano da nossa parte, eu acabei fazendo uma imagem docker e um script para Gitlab CI/CD para autocopilar nossa imagem e publicar no `Arquivos Artificiais` apos a copilação dos arquivos necessario para a instalação dele.
 
 A copilação do Openwrt pode ser feita no github com facilidade mas no gitlab não temos como armazenar arquivos do jobs separados em vez disso temos pippelines que são separadas conforme o runner é executado, e tendo até mesmo dor de cabeca nessa parte, mas como o Gitlab CI tem compabilidade com imagens docker, podemos criar uma imagem docker pré-monatda para a copilação do openwrt em espeçifico, e só subir o arquivo de configuração do proprio Openwrt já montada no `make menuconfig` que podemos criar com o WSL for Windows, Ubuntu, Debian etc...
@@ -19,7 +17,7 @@ Mais necessariamente para quem não tem tempo para esperar a copilação ou tem 
 
 MAIS DETALHES LOGO ABAIXO
 
-[Gitlab Autohospedado](https://www.srherobrine23.com/sirherobrine23/Openwrt-Gitlab-runner)
+[Gitlab Auto-hospedado](https://www.srherobrine23.com/sirherobrine23/Openwrt-Gitlab-runner)
 [Github](https://github.com/Sirherobrine23/Gitlab-OpenWrt)
 
 ... 
