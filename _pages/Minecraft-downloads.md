@@ -47,9 +47,11 @@ Caso não goste a textura use [esse arquivo aqui](https://files.sirherobrine23.o
 
   Data     |  |  | BETA                     |  | Oficial                 |  | Alpha
 :--------- |::|::|:------------------------:|::|:-----------------------:|::|:--------: | 
-30/06/2020 |  |  |                          |  | [1.16.1.02][116102]     |  |   
+22/07/2020 |  |  | [1.16.20.54][1162054]    |  |                         |  |   
+21/07/2020 |  |  |                          |  | [1.16.10][11610]     |  |   
+20/07/2020 |  |  | [1.16.100.50][11610050]  |  |                         |  |   
 16/07/2020 |  |  | [1.16.20.53][1162053]    |  |                         |  |   
-14/07/2020 |  |  | [1.16.20.52][1162052]     |  |                         |  |   
+14/07/2020 |  |  | [1.16.20.52][1162052]    |  |                         |  |   
 25/06/2020 |  |  | [1.16.20.50][1162050]    |  |                         |  |   
 29/06/2020 |  |  |                          |  | [1.16.0.2][11602]       |  |   
 25/06/2020 |  |  |                          |  | [1.16.0.0][11600]       |  |   
@@ -91,6 +93,12 @@ Caso não goste a textura use [esse arquivo aqui](https://files.sirherobrine23.o
 26/06/2016 |  |  |                          |  |                         |  | [0.15.1.2][01512]         
 10/06/2016 |  |  |                          |  |                         |  | [0.15.0.50][015050] 
 10/06/2016 |  |  |                          |  |                         |  | [0.15.0][0150]
+
+[11610]: https://files.sirherobrine23.org/Minecraft/Mcpe/nether-updater/31_07_2020/1.16.10%20(OFICIAL)%2021_07_2020.apk
+
+[11610050]: https://files.sirherobrine23.org/Minecraft/Mcpe/nether-updater/31_07_2020/1.16.100.50%20(BETA)%2030_07_2020.apk
+
+[1162054]: https://files.sirherobrine23.org/Minecraft/Mcpe/nether-updater/31_07_2020/1.16.20.54%20(BETA)%2022_07_2020.apk
 
 [116102]: https://files.sirherobrine23.org/Minecraft/Mcpe/nether-updater/16-07-2020/1.16.1%2030-06-2020.apk
 
