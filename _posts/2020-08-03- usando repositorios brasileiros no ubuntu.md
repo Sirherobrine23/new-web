@@ -2,7 +2,7 @@
 layout: post
 title:  "Usando repositorios brasileiros no Ubuntu"
 author: sirherobrine23
-categories: [ Ubuntu, mirror, espelhos ]
+categories: [ Ubuntu, Debian, mirror, espelhos ]
 ---
 
 o APT é um gerenciador de pacotes do debian, mas da base para instalação de pacotes no Ubuntu que nos da facilidade de instalaçoes de varios pacotes pré-copilados. Além disso temos varios espelhos que nos deixas satisfeitos (ou não) com seus conteudos recheados em programas.
@@ -11,4 +11,18 @@ No ubuntu temos um mirror [(esse aqui)](http://br.archive.ubuntu.com/ubuntu/) of
 
 Mais futuro fazerei um repo sync no azure (ainda não sei se eles tem um proprio repo sync ou seu proprio repositorio mais também aonde moro o ping chega a ~5ms e download de 1Gbps), mais com minhas instabilidades de financeira não sei se consiguirei deixar o servidor ativo.
 
-Nesse exato momento (03/08/2020 22:36 De brasilia) tenho um clone do repositorio do ubuntu e do debian (ainda vou clonar ele também) no seguinte endereço [http://apt.sh23.org](http://apt.sh23.org) e [http://apt.sirherobrine23.org](http://apt.sirherobrine23.org), sendo ambos mesmos servidores.
+Nesse exato momento (04/08/2020 22:36 De brasilia) tenho um clone do repositorio do ubuntu e do debian (ainda estou baixandos ambos) no seguinte endereço [http://apt.sh23.org](http://apt.sh23.org) e [http://apt.sirherobrine23.org](http://apt.sirherobrine23.org), sendo ambos mesmos servidores. caso queira adicionar ele a o source.list.d tenho esses exeplos 
+
+Ubuntu 20.04 (Focal): 
+```
+deb http://apt.sh23.org/ubuntu focal main restricted
+deb-src http://apt.sh23.org/ubuntu focal main restricted
+```
+
+Debian/GNU 10.5 (buster):
+```
+deb http://apt.sh23.org/debian buster main contrib non-free
+deb-src http://apt.sh23.org/debian buster main contrib non-free
+```
+
+mais os repositorios são clones na qual tem todas as versões suportadas além mesmo das arquiteturas (Também por que ainda uso o debian 5 'lenny' em um notebook que uso com servidor de teste apache, e uso um emulador de debian no android que é ARM-v8 de 64 Bits).
