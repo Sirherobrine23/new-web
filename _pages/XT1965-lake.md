@@ -8,7 +8,7 @@ permalink: "/android/xt1965/index.html"
 
 [Android 9.0 Ultima](https://files.sirherobrine23.org/Android-GSi/XT1965-lake/XT1965-2_LAKE_RETBR_9.0_PPWS29.98-111-9_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip)
 
-[Android 10.0 RETBR Ultima](https://files.sirherobrine23.org/Android-GSi/XT1965-lake/XT1965-2_LAKE_RETBR_10_QPWS30.61-21-9_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip)
+[Android 10.0 RETBR Ultima](https://files.sirherobrine23.org/Android-GSi/XT1965-lake/XT1965-2_LAKE_RETBR_10_QPWS30.61-21-11_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip)
 
 ------------------
 
