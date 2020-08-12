@@ -9,20 +9,35 @@ o APT é um gerenciador de pacotes do debian, mas da base para instalação de p
 
 No ubuntu temos um mirror [(esse aqui)](http://br.archive.ubuntu.com/ubuntu/) oficial que tudo que precissamos para o sabor do Ubuntu Desktop (e Ubuntu Server), mais temos problemas como queda, instabilidade e latencia entre servidor ~ cliente (moro em São Bernardo e o ping já chegou até ~10244ms e download de 0.2Mbps), nessas situações temos varios mirros como o do [Google cloud](http://southamerica-east1-b.gce.clouds.archive.ubuntu.com/ubuntu/), que é exeletente, e rapido com ping rapido (moro em São Paulo/São Bernardo do Campo), e é um clone do repositorio oficial do ubuntu dos EUA.
 
-Mais futuro fazerei um repo sync no azure (ainda não sei se eles tem um proprio repo sync ou seu proprio repositorio mais também aonde moro o ping chega a ~5ms e download de 1Gbps), mais com minhas instabilidades de financeira não sei se consiguirei deixar o servidor ativo.
+Acabei descobrindo o mirror do Ubuntu e do Debian no Azure Dexei eles marcados para copiar logo abaixo e substituir seus repositios principais no `/etc/apt/sources.list`
 
-Nesse exato momento (04/08/2020 22:36 De brasilia) tenho um clone do repositorio do ubuntu e do debian (ainda estou baixandos ambos) no seguinte endereço [http://apt.sh23.org](http://apt.sh23.org) e [http://apt.sirherobrine23.org](http://apt.sirherobrine23.org), sendo ambos mesmos servidores. caso queira adicionar ele a o source.list.d tenho esses exeplos 
+---- 
+# Repositorios Azure (Link com mais de 100GB e ping meno de 5ms 'em São Bernardo do Campo')
 
-Ubuntu 20.04 (Focal): 
+Ubuntu Focal (20.04):
 ```
-deb http://apt.sh23.org/ubuntu focal main restricted
-deb-src http://apt.sh23.org/ubuntu focal main restricted
-```
-
-Debian/GNU 10.5 (buster):
-```
-deb http://apt.sh23.org/debian buster main contrib non-free
-deb-src http://apt.sh23.org/debian buster main contrib non-free
+deb http://ubuntu.sh23.org/ubuntu/ focal main restricted
+deb-src http://ubuntu.sh23.org/ubuntu/ focal main restricted
+deb http://ubuntu.sh23.org/ubuntu/ focal-updates main restricted
+deb-src http://ubuntu.sh23.org/ubuntu/ focal-updates main restricted
 ```
 
-mais os repositorios são clones na qual tem todas as versões suportadas além mesmo das arquiteturas (Também por que ainda uso o debian 5 'lenny' em um notebook que uso com servidor de teste apache, e uso um emulador de debian no android que é ARM-v8 de 64 Bits).
+Debian Buster (10):
+```
+deb http://debian.sh23.org/debian/ buster main non-free contrib
+deb-src http://debian.sh23.org/debian/ buster main non-free contrib
+```
+
+----
+# Meu pequeno repositorio 
+
+Hojé tenho um pequeno repositorio só que não é um clone dos repositorios oficiais e sim um pequeno conglomerado de pacotes meus e pequenas redistribuições de pacotes legados e de repositorios com problema de quedas constantes.
+
+`Pequeno script para adição saira em breve`
+
+Universal entre sistemas APT baseado em debian:
+```
+# ---------------------- Bysh23 ---------------------
+deb http://apt.sh23.org/bysh23/ sh23 main contrib non-free 
+# ---------------------- Bysh23 ---------------------
+```
