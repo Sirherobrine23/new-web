@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Usando repositorios brasileiros no Ubuntu"
+title:  "Os repositorios brasileiros do ubuntu e Debian"
 author: sirherobrine23
 categories: [ Ubuntu, Debian, mirror, espelhos ]
 ---
@@ -24,8 +24,8 @@ deb-src http://ubuntu.sh23.org/ubuntu/ focal-updates main restricted
 
 Debian Buster (10):
 ```
-deb http://debian.sh23.org/debian/ buster main non-free contrib
-deb-src http://debian.sh23.org/debian/ buster main non-free contrib
+deb http://debian-azure.sh23.org/debian/ buster main non-free contrib
+deb-src http://debian-azure.sh23.org/debian/ buster main non-free contrib
 ```
 
 ----
@@ -33,11 +33,12 @@ deb-src http://debian.sh23.org/debian/ buster main non-free contrib
 
 Hojé tenho um pequeno repositorio só que não é um clone dos repositorios oficiais e sim um pequeno conglomerado de pacotes meus e pequenas redistribuições de pacotes legados e de repositorios com problema de quedas constantes.
 
-`Pequeno script para adição saira em breve`
+`Pequeno script para adição do meu repositorio`:```
+wget -qO- https://sirherobrine23.org/assets/scripts/add-my-reposity.sh | bash
+ ```
 
 Universal entre sistemas APT baseado em debian:
-```
+```list
 # ---------------------- Bysh23 ---------------------
 deb http://apt.sh23.org/bysh23/ sh23 main contrib non-free 
-# ---------------------- Bysh23 ---------------------
 ```
