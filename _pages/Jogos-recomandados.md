@@ -7,7 +7,7 @@ permalink: "/jogos/recomendados.html"
 
 ### Cuphead 
 
-Sim, ele aparece aqui para alegra sua quanrentena e poder perder sua paciencia rapida. Como se trata de um jogo de tiro de primeira pesssoa e na qual foi desenhado quadro por quadro
+Sim, ele aparece aqui para alegra sua quarentena e poder perder sua paciencia rapida. Como se trata de um jogo de tiro e na qual foi desenhado quadro por quadro podemos comprar um jogo desse que ajudaria aos 10 anos de trabalho por esse jogo.
 
 Opções de Download:
 

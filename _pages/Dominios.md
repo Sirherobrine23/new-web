@@ -7,9 +7,9 @@ Como parte do meu sistema tenho com prazer falar os dominios na qual eu tenho e 
 
 gitsh23.com - Representara os sites estaticos do meu servidor Gitlab auto-hospedado no Azure, Atualmente não está em uso.;
 
-*.sh23.org - Representa os sites estaticos do meu Gitlab auto-hospedado no Azure.;
+*.sh23.org - Representa os sites estaticos do meu Gitlab auto-hospedado no Azure e na qual é gerenciado por mim mais não será guardado nenhum projeto principal.;
 
-sirherobrine23.com - Em momento do mailchimp (Sendo transferido atualmente para outro provedor, isso foi editado no dia '15/07/2020').;
+sirherobrine23.com - Em desativação do Dominio.;
 
 [sirherobrine23.org](https://sirherobrine23.org) - Atualmente esse é meu endereço do meu site.;
 
