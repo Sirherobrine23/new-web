@@ -4,33 +4,6 @@ title:  "Minecraft Downloads"
 permalink: "/jogos/minecraft.html"
 ---
 
-# Minecraft Java editiom
-
-Essas sessão é para download do Minecraft Java edition
-
-[Shiginima Launcher](https://files.sirherobrine23.org/Minecraft/ShiginimaSE_v4400.zip)
-
-Além do launcher vocé vai precisar do Java Instalado, caso não tenha opções para baixar abaixo
-
----
-
-Windows
-
-[Download do Java online X86/X64](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242057_3d5a2bb8f8d4428bbe94aed7ec7ae784), [Dowmnload do Instalador Offline X86](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242058_3d5a2bb8f8d4428bbe94aed7ec7ae784), [Download do instalador Offline X64](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242060_3d5a2bb8f8d4428bbe94aed7ec7ae784)
-
- ---
-
-MacOS
-
-[Download do Java](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242051_3d5a2bb8f8d4428bbe94aed7ec7ae784)
-
- --- 
-
-Linux
-
-[Instruções para instalação do Java para Linux (Inglês)](https://openjdk.java.net/install/)
-
-----
 
 # Minecraft Bedrock
 
@@ -45,7 +18,7 @@ Caso não goste a textura use [esse arquivo aqui](https://files.sirherobrine23.o
 <br><br>
 
    Data    | BETA                     |  | Oficial                 
- :-------  | -----------------------: |  | -----------------------:
+ --------  | ------------------------ |  | -----------------------
 20/08/2020 |[1.16.100.52][1.16.100.52]|  |                         
 12/08/2020 |[1.16.100.51][1.16.100.51]|  |                         
 11/08/2020 |                          |  |  [1.16.20][1.16.20]     
@@ -88,8 +61,8 @@ Caso não goste a textura use [esse arquivo aqui](https://files.sirherobrine23.o
 20/03/2019 |                          |  |  [1.2.14.2][12142]      
 03/03/2019 |                          |  |  [1.2.13.6][12136]      
 <br>
- Data.      | Versão (Alpha)
-| :-------- | ---------------------:
+ Data       | Versão (Alpha)
+| :-------- | ---------------------
 |21/09/2016 | [0.16.0][0160]           
 |20/08/2016 | [0.15.90.1][015901]       
 |28/07/2016 | [0.15.6][0156]            
@@ -163,4 +136,34 @@ Se não funcionar é por que nao testei antes de publica ou não esta mais funci
 --/--/--   |  |  |                          |  | [1.14.30.2][W114302]
  
 
- [W114302]: https://files.sirherobrine23.org/Minecraft/Mcpe/Minecraft%20for%20Windows%2010/Minecraft-1.14.30.2.Appx
+[W114302]: https://files.sirherobrine23.org/Minecraft/Mcpe/Minecraft%20for%20Windows%2010/Minecraft-1.14.30.2.Appx
+
+----
+
+# Minecraft Java editiom
+
+Essas sessão é para download do Minecraft Java edition
+
+[Shiginima Launcher](https://files.sirherobrine23.org/Minecraft/ShiginimaSE_v4400.zip)
+
+Além do launcher vocé vai precisar do Java Instalado, caso não tenha opções para baixar abaixo
+
+---
+
+Windows
+
+[Download do Java online X86/X64](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242057_3d5a2bb8f8d4428bbe94aed7ec7ae784), [Dowmnload do Instalador Offline X86](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242058_3d5a2bb8f8d4428bbe94aed7ec7ae784), [Download do instalador Offline X64](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242060_3d5a2bb8f8d4428bbe94aed7ec7ae784)
+
+ ---
+
+MacOS
+
+[Download do Java](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242051_3d5a2bb8f8d4428bbe94aed7ec7ae784)
+
+ --- 
+
+Linux
+
+[Instruções para instalação do Java para Linux (Inglês)](https://openjdk.java.net/install/)
+
+----
