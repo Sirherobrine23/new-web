@@ -15,8 +15,6 @@ Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE), procure pel
 
 Caso não goste a textura use [esse arquivo aqui](https://files.sirherobrine23.org/Minecraft/Mcpe-textura.mcpack), ela é suportada a partir da versão 1.13.0 (Usuario de Android por favor Renomaia o arquivo .mcpack para zip e extraia ele para `(Raiz)/games/com.mojang/resource_packs/`)
 
-<br><br>
-
    Data    | BETA                     |  | Oficial                 
  --------  | ------------------------ |  | -----------------------
 20/08/2020 |[1.16.100.52][1.16.100.52]|  |                         
@@ -60,9 +58,10 @@ Caso não goste a textura use [esse arquivo aqui](https://files.sirherobrine23.o
 23/05/2019 |                          |  |  [1.11.4.2][11142]      
 20/03/2019 |                          |  |  [1.2.14.2][12142]      
 03/03/2019 |                          |  |  [1.2.13.6][12136]      
-<br>
+
+
  Data       | Versão (Alpha)
-| :-------- | ---------------------
+| --------- | ---------------------
 |21/09/2016 | [0.16.0][0160]           
 |20/08/2016 | [0.15.90.1][015901]       
 |28/07/2016 | [0.15.6][0156]            
