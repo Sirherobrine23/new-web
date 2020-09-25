@@ -12,34 +12,9 @@ No ubuntu temos um mirror [(esse aqui)](http://br.archive.ubuntu.com/ubuntu/) of
 Acabei descobrindo o mirror do Ubuntu e do Debian no Azure Dexei eles marcados para copiar logo abaixo e substituir seus repositios principais no `/etc/apt/sources.list`
 
 ---- 
-# Repositorios Azure
 
-Ubuntu Focal (20.04):
+Debian Buster (10) Apenas X86 e X64:
 ```
-deb http://ubuntu.sh23.org/ubuntu/ focal main restricted
-deb-src http://ubuntu.sh23.org/ubuntu/ focal main restricted
-deb http://ubuntu.sh23.org/ubuntu/ focal-updates main restricted
-deb-src http://ubuntu.sh23.org/ubuntu/ focal-updates main restricted
-```
-
-Debian Buster (10):
-```
-deb http://debian-azure.sh23.org/debian/ buster main non-free contrib
-deb-src http://debian-azure.sh23.org/debian/ buster main non-free contrib
-```
-
-----
-# Meu pequeno repositorio 
-
-Hojé tenho um pequeno repositorio só que não é um clone dos repositorios oficiais e sim um pequeno conglomerado de pacotes meus e pequenas redistribuições de pacotes legados e de repositorios com problema de quedas constantes.
-
-`Pequeno script para adição do meu repositorio`:
-```
-wget -qO- https://sirherobrine23.org/assets/scripts/add-my-reposity.sh | bash
- ```
-
-Universal entre sistemas APT baseado em debian:
-```
-# ---------------------- Bysh23 ---------------------
-deb http://apt.sh23.org/bysh23/ sh23 main contrib non-free 
+deb http://debian.sh23.org/debian/ buster main non-free contrib
+deb-src http://debian.sh23.org/debian/ buster main non-free contrib
 ```

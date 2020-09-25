@@ -13,5 +13,4 @@ Para falar sério não por isso que ainda mantenho meu site antigo no ar.
 
 Ainda gosto de como era meu site antigo e deixei ele ainda vivo no [Sirherobrine23 Old Web Site](https://old.sirherobrine23.org).
 
-
 ##### Continuando ainda a grande transformação
