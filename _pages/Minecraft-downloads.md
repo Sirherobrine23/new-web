@@ -17,6 +17,13 @@ Caso não goste a textura use [esse arquivo aqui](https://files.sirherobrine23.o
 
 | BETA                     | Oficial                 
 | ------------------------ | -----------------------
+|[1.16.100.58][1.16.100.58]|                         
+|[1.16.100.57][1.16.100.57]|                         
+|[1.16.100.56][1.16.100.56]|                         
+|[1.16.100.55][1.16.100.54]|                         
+|[1.16.100.54][1.16.100.54]|                         
+|                          | [1.16.40][1.16.40]     
+|[1.16.100.53][1.16.100.53]|                         
 |[1.16.100.52][1.16.100.52]|                         
 |[1.16.100.51][1.16.100.51]|                         
 |                          | [1.16.20][1.16.20]     
@@ -71,6 +78,16 @@ Caso não goste a textura use [esse arquivo aqui](https://files.sirherobrine23.o
 |10/06/2016 | [0.15.0.50][015050] 
 |10/06/2016 | [0.15.0][0150]
 
+
+[1.16.100.56]: https://f.sh23.org/Minecraft/Mcpe/nether-updater/01_10_2020/1.16.100.56%20(BETA).apk
+[1.16.100.57]: https://f.sh23.org/Minecraft/Mcpe/nether-updater/01_10_2020/1.16.100.57%20(BETA).apk
+[1.16.100.58]: https://f.sh23.org/Minecraft/Mcpe/nether-updater/01_10_2020/1.16.100.58%20(BETA).apk
+
+
+[1.16.40]: https://f.sh23.org/Minecraft/Mcpe/nether-updater/15_09_2020/1.16.40.apk
+[1.16.100.53]: https://f.sh23.org/Minecraft/Mcpe/nether-updater/15_09_2020/1.16.100.53.apk
+[1.16.100.54]: https://f.sh23.org/Minecraft/Mcpe/nether-updater/15_09_2020/1.16.100.54.apk
+[1.16.100.55]: https://f.sh23.org/Minecraft/Mcpe/nether-updater/15_09_2020/1.16.100.55.apk
 [1.16.20]: https://files.sirherobrine23.org/Minecraft/Mcpe/Android/21-08-2020/1.16.20%20-%2011-08-2020.apk
 [1.16.100.52]: https://files.sirherobrine23.org/Minecraft/Mcpe/Android/21-08-2020/1.16.100.52%20-%2020-08-2020.apk
 [1.16.100.51]: https://files.sirherobrine23.org/Minecraft/Mcpe/Android/21-08-2020/1.16.100.51%20-%2012-08-2020.apk
