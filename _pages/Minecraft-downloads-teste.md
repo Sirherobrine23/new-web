@@ -15,6 +15,4 @@ Caso queira ir para a ultima versão estavel do mcpe (Minecraft PE), procure pel
 
 Caso não goste a textura use [esse arquivo aqui](https://files.sirherobrine23.org/Minecraft/Mcpe-textura.mcpack), ela é suportada a partir da versão 1.13.0 (Usuario de Android por favor Renomaia o arquivo .mcpack para zip e extraia ele para `(Raiz)/games/com.mojang/resource_packs/`)
 
-<iframe src="https://test.sh23.org/" style="
-    width: 37rem;
-"></iframe>
+<iframe src="https://test.sh23.org/" style="width: 37rem;" frameBorder="0"></iframe>
